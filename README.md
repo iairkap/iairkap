@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there! 👋 I'm a Full Stack Developer with a knack for creativity.
+I'm a Full Stack Developer with a knack for creativity.
 
 🎓 Graduated from Soy Henry, adept with Reactjs | Next.js | Redux | JavaScript | Git | TypeScript | Html | Css | Postgresql | Sequelize | Express.js | Node.js.
 
